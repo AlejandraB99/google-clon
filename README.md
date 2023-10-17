@@ -5,7 +5,7 @@ Poniendo en práctica lo aprendido en el bootcamp logré realizar un clon del ex
 ## 1. Intro
 El proyecto fue creado con **HTML y CSS**. Se trata del navegador más usado: la interfaz Google
 *Puedes visitar el sitio del siguiente enlace 
-![Clon de google](/imagenes/captura-clon.png)
+![Clon de google](/imagenes/captura-clon.PNG)
 
 **Inspírate de la realización de este proyecto, utiliza tu destreza para demostrar que tu futuro es ser desarrolladora frontend**
 
